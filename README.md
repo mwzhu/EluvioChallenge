@@ -34,3 +34,5 @@ This is the space it takes to store all the binary files into the byte dictionar
 `python3 main.py`
 
 ### Sample Output
+<img width="684" alt="Screen Shot 2021-04-26 at 3 10 41 AM" src="https://user-images.githubusercontent.com/65944154/116066669-2510b580-a63d-11eb-845d-fab72e7ecd79.png">
+
